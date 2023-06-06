@@ -1,0 +1,23 @@
+nav div img{
+    width: 50px;
+}
+footer{
+    background-color: #214d67;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none !important;
+}
+a:hover {
+    color:yellow; 
+    text-decoration:none;
+}
+h2{
+    color: white;
+}
+/*p{
+    color: white;
+}*/
+
+
